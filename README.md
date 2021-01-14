@@ -10,3 +10,7 @@ a basic work day scheduler
 * Each time block has an input field and 'save' buttons.
 * Appointments can be entered to a specific hour inline, and the 'save' button saves them to local storage.
 * This application uses [jquery](https://jquery.com/) and [moment.js](https://momentjs.com/), and [Bootstrap](https://getbootstrap.com/).
+
+
+Running App:
+ https://fabianingram.github.io/H5-workday-scheduler-/
