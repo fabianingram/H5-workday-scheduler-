@@ -1,8 +1,7 @@
 # H5-workday-scheduler-
 a basic work day scheduler 
 # Day Planner
-
-![calendar application screenshot](/screenshots/workday.png)
+![Screen Shot 2021-01-13 at 7 58 55 PM](https://user-images.githubusercontent.com/68198938/104538800-d08b8200-55d9-11eb-83ca-31f185097208.png)
 
 ## How it Works
 * Make a calendar to represent the workday: 9AM-5PM.
